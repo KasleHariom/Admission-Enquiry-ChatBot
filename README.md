@@ -56,6 +56,7 @@ http://localhost:8080/Admission_Enquiry_Chatbot
 
 📸 Screenshots
   
+<img width="896" height="766" alt="Screenshot 2025-08-30 175637" src="https://github.com/user-attachments/assets/8991dd1a-3df4-4052-b05a-41df38c0470e" />
 
 
 🤝 Contribution
